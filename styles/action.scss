@@ -1,0 +1,36 @@
+.text_action{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    border-radius: 0 0 15px 15px;
+    padding: 1rem;
+    p{
+        margin: 0;
+        
+    }
+}
+
+.img_actions{
+    display: block;
+    border-radius: 15px 15px 0 0;
+    object-fit: cover;
+}
+
+.card_actions{
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    transition: all .4s ease;
+    cursor: pointer;
+}
+
+.container_actions{
+    padding-top: 2rem;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-bottom: 2rem;
+}
+
+.card_actions:hover{
+    transform: scale(1.05);
+}

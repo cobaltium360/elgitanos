@@ -1,0 +1,37 @@
+.h2_histoire{
+    margin: 0;
+    color: white;
+    font-size: 32px;
+}
+
+.container_histoire{
+    padding-top: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container_text_histoire{
+    padding-top: 2rem;
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.div_histoire_pair{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.div_histoire_unpair{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+
+.container_p_histoire{
+    width: 60%;
+}

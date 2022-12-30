@@ -1,0 +1,40 @@
+.h1_header{
+    margin: 0;
+    color: white;
+}
+
+.container_header{
+    min-height: 100px;
+    background-color: black;
+    border-bottom: 2px solid white;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+}
+
+
+
+.lien_header{
+    color: white;
+    font-weight: bold;
+}
+
+.container_lien_head{
+    display: flex;
+    gap: 15px;
+}
+
+.container_logo_titre{
+    display: flex;
+    align-items: center;
+}
+
+.active_header{
+    color: rgb(0, 218, 0);
+}
+
+.inactive_header{
+    color: transparent;
+}
+

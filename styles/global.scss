@@ -1,0 +1,13 @@
+@import "/styles/home.scss";
+@import "/styles/header.scss";
+@import "/styles/histoire.scss";
+@import "/styles/action.scss";
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@400;500;600;700&display=swap');
+body{
+    margin: 0;
+    font-family: 'Lexend', sans-serif;
+}
+p{
+    font-size: 20px;
+    margin: 0;
+}
