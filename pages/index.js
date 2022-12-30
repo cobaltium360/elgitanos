@@ -91,7 +91,7 @@ export default function Home() {
                 <p> - Balnave : mentir</p>
                 <p> - Bicrave : vendre</p>
                 <p> - Chourave : voler</p>
-                <p> - Nachave : s'en aller</p>
+                <p> - Nachave : s&apos;en aller</p>
                 <p> - Marave : se niquer, niquer des gens</p>
               </div>
             </div>

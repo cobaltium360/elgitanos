@@ -19,39 +19,39 @@ export default function Action() {
           <h2 className='h2_histoire'>Nos Actions</h2>
           <div className='container_actions'>
             <div className='card_actions'>
-              <Image src="/drogue.jpg" width="300" height="200" quality={100}className='img_actions'/>
+              <Image src="/drogue.jpg" width="300" height="200" quality={100}className='img_actions' alt="image"/>
               <div className='text_action'>
                 <p>Drogue</p>
               </div>
             </div>
             <div className='card_actions'>
-              <Image src="/guerre.jpg" width="300" height="200" quality={100} className='img_actions'/>
+              <Image src="/guerre.jpg" width="300" height="200" quality={100} className='img_actions' alt="image"/>
               <div className='text_action'>
                 <p>Guerre</p>
               </div>
             </div>
             <div className='card_actions'>
-              <Image src="/territoire.jpg" width="300" height="200" quality={100} className='img_actions'/>
+              <Image src="/territoire.jpg" width="300" height="200" quality={100} className='img_actions' alt="image"/>
               <div className='text_action'>
                 <p>Reprise De Territoire</p>
               </div>
             </div>
             <div className='card_actions'>
-              <Image src="/braquage.jpg" width="300" height="200" quality={100} className='img_actions'/>
+              <Image src="/braquage.jpg" width="300" height="200" quality={100} className='img_actions' alt="image"/>
               <div className='text_action'>
                 <p>Braquage</p>
               </div>
             </div>
             <div className='card_actions'>
-              <Image src="/armes.jpg" width="300" height="200" quality={100} className='img_actions'/>
+              <Image src="/armes.jpg" width="300" height="200" quality={100} className='img_actions' alt="image"/>
               <div className='text_action'>
-                <p>Traffic d'armes</p>
+                <p>Traffic d&apos;armes</p>
               </div>
             </div>
             <div className='card_actions'>
-              <Image src="/otage.jpg" width="300" height="200" quality={100} className='img_actions'/>
+              <Image src="/otage.jpg" width="300" height="200" quality={100} className='img_actions' alt="image"/>
               <div className='text_action'>
-                <p>Prises d'otages</p>
+                <p>Prises d&apos;otages</p>
               </div>
             </div>
           </div>

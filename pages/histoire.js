@@ -20,26 +20,26 @@ export default function Histoire() {
                     <div className='container_text_histoire'>
                         <div className='div_histoire_pair'>
                             <div className='container_p_histoire'>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+                                <p>qsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqnd</p>
                             </div>
-                            <Image src="/logobl.png" width="250" height="250" />
+                            <Image src="/logobl.png" width="250" height="250" alt="image"/>
                         </div>
                         <div className='div_histoire_unpair'>
-                            <Image src="/logobl.png" width="250" height="250" />
+                            <Image src="/logobl.png" width="250" height="250" alt="image"/>
                             <div className='container_p_histoire'>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+                                <p>qsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqnd</p>
                             </div>
                         </div>
                         <div className='div_histoire_pair'>
                             <div className='container_p_histoire'>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+                                <p>qsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqnd</p>
                             </div>
-                            <Image src="/logobl.png" width="250" height="250" />
+                            <Image src="/logobl.png" width="250" height="250" alt="image"/>
                         </div>
                         <div className='div_histoire_unpair'>
-                            <Image src="/logobl.png" width="250" height="250" />
+                            <Image src="/logobl.png" width="250" height="250" alt="image"/>
                             <div className='container_p_histoire'>
-                                <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</p>
+                                <p>qsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqndqsndsqnd qsndsqndqsnd sqndqsndsqn dqsndsqndqs ndsqndqsndsqnd</p>
                             </div>
                         </div>
                     </div>
