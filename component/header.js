@@ -30,7 +30,10 @@ export default function Header() {
                     <p className='lien_header'>Membres</p>
                   </Link>
                 </div>
-            
+                <div className='responsive_mob'>
+                  <h2>Version mobile en développement</h2>
+                </div>
+
             
         </div>
       </header>
