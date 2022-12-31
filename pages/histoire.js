@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { Inter } from '@next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 import Header from '../component/header'
-
+import Footer from '../component/footer';
 export default function Histoire() {
   return (
     <>
@@ -25,10 +25,10 @@ Notre barron, le seul qui était armé de bonne armes, et qui nous défendaient 
 Tout le monde le regardait, tout le monde était en pleurs, tout le monde courait vers lui, enfin vous l&apos;aviez compris, tout le monde l&apos;aimait, malgré ses coups de gueule, il aimait tout le monde dans son camp... Après cela, les policia ont pris tout ce qu&apos;il bougeait, les grands, les petits au commissariat. Les petits reviennent chez eux, les grands restent en prison...  Thiago Lopez  arrive à s&apos;échapper seul et prend la fuite vers une autre ville, il doit se cacher sous une apparence pour cela. vue que ces origine sons gitano-espagnole
 </p>
                             </div>
-                            <Image src="/logobl.png" width="250" height="250" alt="image"/>
+                            <Image src="/TO.jpg" width="400" height="350" quality={100} alt="image" className='img_histoire'/>
                         </div>
                         <div className='div_histoire_unpair'>
-                            <Image src="/logobl.png" width="250" height="250" alt="image"/>
+                            <Image src="/OIP.jpg" width="350" height="250" quality={100} alt="image" className='img_histoire'/>
                             <div className='container_p_histoire'>
                                 <p>Thiago en a marre, il lui faut un nouveau camp, mais à chaque fois qu&apos;ils s&apos;incrustent dans un autre camp gitan, tout le monde le chasse car il a de la drogue sur eux. Il voyage beaucoup, de ville en ville. Un jour, ils ont débarqué au port du quartier croix de chameaux au sud de la France, et ils sont montés dans un bateau au hasard, leurs cœurs battus, 5 jours dans un bateau inconnu, pas de nourriture, un froid horrible, pas de lumières. Mais où va se bateau ? il ne savait ni lire ni écrire, pas de réponse à la question...
 </p>
@@ -39,10 +39,10 @@ Tout le monde le regardait, tout le monde était en pleurs, tout le monde courai
                                 <p>Le bateau s&apos;arrête enfin, une lumière profonde s&apos;arrête devant lui, une porte s&apos;ouvre, ils voient une ombre d&apos;un homme assez grand, avec un barbe, des grandes chaussures. Qui est cet homme, un sauveur ou un malfaiteur ? Pour lui c&apos;est un malfaiteur, mais en vrais c&apos;est un sauveur, il se dirige vers et d&apos;un voix grave il dit &quot;Venez, sortez&quot; il le fait sortir, ils ne l&apos;ont jamais revu, comme si c&apos;était un ange venu de dieu. Arrivée dans cette ville inconnue et assez grande pour lui, il cherchait déjà à manger, ça c&apos;était facile, mais trouver un logement sans papier c&apos;était dur. Si il traînent dans un quartier noir, il se font chasser, si il traîne dans un quartier latinos, il ont pas le language. Un jour il a remarqué qu&apos;il était à flashback,  il  entendait que c&apos;est la ville la plus sauvage de Los Santos. Ils ont passé leur temps à chercher un territoire.
 </p>
                             </div>
-                            <Image src="/logobl.png" width="250" height="250" alt="image"/>
+                            <Image src="/baaa.jpg" width="400" height="300" quality={100} alt="image" className='img_histoire'/>
                         </div>
                         <div className='div_histoire_unpair'>
-                            <Image src="/logobl.png" width="250" height="250" alt="image"/>
+                            <Image src="/gtaaa.webp" width="350" height="250" alt="image" quality={100} className='img_histoire'/>
                             <div className='container_p_histoire'>
                                 <p>A l&apos;age d&apos;adulte, ils a décider de passé à l&apos;action, il a formé un camp gitans, ils à acheter des poules, des coqs, des caravanes, aujourd&apos;hui Thiago Lopez recherche des gitanos pour agrandir son camps  et reconstruire une famille il a trouver des cousin sur ls il s&apos;appelle Tonio lopez , valentino dinero, billy Zanlo , Robert Mitnick , Kevin Mitnick</p>
                             </div>
@@ -50,6 +50,7 @@ Tout le monde le regardait, tout le monde était en pleurs, tout le monde courai
                     </div>
                 </div>
             </main>
+            <Footer/>
     </>
   )
 }

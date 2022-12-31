@@ -3,7 +3,7 @@ import Image from 'next/image'
 import { Inter } from '@next/font/google'
 const inter = Inter({ subsets: ['latin'] })
 import Header from '../component/header'
-
+import Footer from '../component/footer';
 export default function Membres() {
     return (
         <>
@@ -20,6 +20,7 @@ export default function Membres() {
         </div>
         
       </main>
+      <Footer/>
         </>
     )
 }

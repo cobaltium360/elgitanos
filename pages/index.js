@@ -6,6 +6,8 @@ import Header from '../component/header';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCheck } from '@fortawesome/free-solid-svg-icons';
 import Link from 'next/link';
+import Footer from '../component/footer';
+import { faDiscord } from "@fortawesome/free-brands-svg-icons"
 
 export default function Home() {
   return (
@@ -27,34 +29,35 @@ export default function Home() {
             <div className='container_text_card_home'>
               <div className='p_check'>
                 <FontAwesomeIcon className='icon_check' icon={faCheck} />
-                <p>avoir 18 ans</p>
+                <p>Avoir 18 ans</p>
               </div>
               <div className='p_check'>
                 <FontAwesomeIcon className='icon_check' icon={faCheck} />
-                <p>avoir un bon rp et connaitre le reglement</p>
+                <p>Avoir un bon rp et connaitre le reglement</p>
               </div>
               <div className='p_check'>
                 <FontAwesomeIcon className='icon_check' icon={faCheck} />
-                <p>connaitre le language gitan</p>
+                <p>Connaitre le language gitan</p>
               </div>
               <div className='p_check'>
                 <FontAwesomeIcon className='icon_check' icon={faCheck} />
-                <p>avoir un bon background</p>
+                <p>Avoir un bon background</p>
               </div>
               <div className='p_check'>
                 <FontAwesomeIcon className='icon_check' icon={faCheck} />
-                <p>être actif</p>
+                <p>Etre actif</p>
               </div>
               <div className='p_check'>
                 <FontAwesomeIcon className='icon_check' icon={faCheck} />
-                <p>respect de la hierarchie</p>
+                <p>Respect de la hierarchie</p>
               </div>
               <div className='p_check'>
                 <FontAwesomeIcon className='icon_check' icon={faCheck} />
-                <p>loyauté</p>
+                <p>Loyauté</p>
               </div>
               <div className='container_button'>
-                <Link className='button_discord' href="https://discord.gg/NYgDV8t6gM">Discord</Link>
+                <Link className='button_discord' href="https://discord.gg/NYgDV8t6gM"><FontAwesomeIcon className='icon_discord' icon={faDiscord} /></Link>
+                
               </div>
             </div>
 
@@ -100,6 +103,7 @@ export default function Home() {
           </div>
         </div>
       </main>
+      <Footer/>
     </>
   )
 }
