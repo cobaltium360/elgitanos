@@ -8,8 +8,13 @@ import { faCheck } from '@fortawesome/free-solid-svg-icons';
 import Link from 'next/link';
 import Footer from '../component/footer';
 import { faDiscord } from "@fortawesome/free-brands-svg-icons"
-
+import React from "react";
+import { useState, useEffect } from 'react';
+import axios from 'axios'
 export default function Home() {
+  useEffect(() => {
+    axios.get("/api/date").then(res => console.log(res))
+}, [])
   return (
     <>
       <Head>
